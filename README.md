@@ -4,7 +4,7 @@ This is the public issue tracker for **Tutorini** — a macOS video player built
 
 Tutorini strips away YouTube's distractions so you can focus on learning. Ghost Window mode lets the video float transparently over your workspace while you practice hands-on.
 
-https://github.com/Tutorini/feedback/raw/main/assets/hero.mp4
+https://github.com/user-attachments/assets/6f189a41-7c97-4557-8dfe-e13410d8f83e
 
 ## How to report a bug
 
